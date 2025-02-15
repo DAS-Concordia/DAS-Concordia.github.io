@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkwebsite=self.webpackChunkwebsite||[]).push([[8839],{8629:a=>{a.exports=JSON.parse('{"label":"trivial packages","permalink":"/blog/tags/trivial-packages","allTagsPath":"/blog/tags","count":1}')}}]);
